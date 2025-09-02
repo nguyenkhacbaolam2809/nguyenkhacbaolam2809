@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là **Nguyễn Khắc Bảo Lâm**
 
 🎓 Học sinh lớp **10 Tin** tại **Trường THPT Chuyên Hà Tĩnh**  
-💻 Đang học lập trình web (HTML, CSS, JavaScript, SQL) và Cấu Trúc Dữ Liệu và Giải Thuật C++
+💻 Đang học lập trình Cấu Trúc Dữ Liệu và Giải Thuật C++
 📈 Định hướng: Web Developer + Competitive Programming  
 
 ---
