@@ -2,7 +2,6 @@
 
 🎓 Học sinh lớp **10 Tin** tại **Trường THPT Chuyên Hà Tĩnh**  
 💻 Đang học lập trình Cấu Trúc Dữ Liệu và Giải Thuật C++
-📈 Định hướng: Web Developer + Competitive Programming  
 
 ---
 
