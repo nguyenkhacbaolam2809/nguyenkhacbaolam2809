@@ -32,6 +32,7 @@ Me (
     goals: ["senior swe", "Expert Codeforces", "MS2-HUST"],
     contacts: {
         "email": ["nguyenkhacbaolam2809@gmail.com", "nguyenkhacbaolam2809@thptchuyenhatinh.edu.vn"],
+        "phone number" : ["0842291478"],
         "facebook": ["@Bảo Lâm"],
         "instagram": ["@lambao28910"],
         "discord": ["ngkhbaolam280910"]
@@ -46,9 +47,10 @@ Me (
 
 [![YouTube](https://img.shields.io/badge/Youtube-ff5555?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lambao28910)
 [![Discord](https://img.shields.io/badge/Discord-6e6a86?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1185116454207623172)
+[![Instagram](http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lambao28910/)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BlameNotFound)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31x4fexk7p2weu6e5siadqcukmkq?si=55bdbfcb71be4d0a)
 
 </div>
 
----
-
-> no
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x4fexk7p2weu6e5siadqcukmkq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
