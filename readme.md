@@ -22,14 +22,15 @@ Me (
     location: "ha tinh , vietnam",
     interests: {
         "frameworks": ["reactjs", "nextjs", "svelte", "express.js"],
-        "languages": ["javascript", "typescript", "py", "rust", "cpp", "java", "kotlin"],
+        "languages": ["javascript", "typescript", "py", "rust", "cpp", "c" , "java", "kotlin"],
         "technologies": ["git", "docker", "rpc", "mongodb"],
         "misc": [
             "system engineering", "competitive programming",
             "reverse engineering", "system design"
         ]
     },
-    goals: ["senior swe", "Expert Codeforces", "MS2-HUST"],
+    goals: ["senior swe", "Expert Codeforces", "MS2-HUST", "Ielts 7.0" ,
+            "first prize of provincial-level outstanding student in computer science"],
     contacts: {
         "email": ["nguyenkhacbaolam2809@gmail.com", "nguyenkhacbaolam2809@thptchuyenhatinh.edu.vn"],
         "phone number" : ["0842291478"],
